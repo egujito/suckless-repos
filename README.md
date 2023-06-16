@@ -1,5 +1,8 @@
 # Suckless Software builds.
 
+## My Rice:
+![](https://raw.githubusercontent.com/egujito/suckless-repos/master/wm.png)
+-
 This repo contains my builds of:
 - DWM - The suckless window manager
 - DWMBlocks - Status bar and module scripts
@@ -11,7 +14,8 @@ A Very minimal build of dwm. Uses pywal colorscheme at [`colors-wal-dwm.h`](http
 
 ***IMPORTANT***
 
-Make sure you change everything in [`autostart.h`](https://github.com/egujito/suckless-repos/blob/master/dwm/autostart.sh) to fit your system
+Make sure you change everything in [`autostart.h`](https://github.com/egujito/suckless-repos/blob/master/dwm/autostart.sh) to fit your system. If you want those (not!) workspaces icons use a nerdfont.
+
 
 ### DWMBLOCKS
 
